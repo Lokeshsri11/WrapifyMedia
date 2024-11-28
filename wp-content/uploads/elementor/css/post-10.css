@@ -273,7 +273,7 @@
     text-transform: var( --e-global-typography-text-text-transform);
     line-height: var( --e-global-typography-text-line-height);
     letter-spacing: var( --e-global-typography-text-letter-spacing);
-    color: var( --e-global-color-primary);
+    color: black;
     border-style: solid;
     border-width: 0px 0px 0px 0px;
     border-color: #FFFFFF00;
