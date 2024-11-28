@@ -730,7 +730,7 @@
                             </div>
                             <div class="elementor-element elementor-element-c95aa74 elementor-widget elementor-widget-heading" data-id="c95aa74" data-element_type="widget" data-widget_type="heading.default">
                                 <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">#100 Day's</h2>
+                                    <h2 class="elementor-heading-title elementor-size-default">#100 Day's Plan</h2>
                                 </div>
                             </div>
                         </div>
@@ -775,8 +775,8 @@
                                 <div class="elementor-widget-container">
                                     <div class="ekit-wid-con">
                                         <div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-text_center">
-                                            <h4 class="ekit-heading--title elementskit-section-title text_fill">49,999/-</h4>
-                                            <h4 class="ekit-heading--subtitle elementskit-section-subtitle  ">For 100 Day's
+                                            <h4 class="ekit-heading--title elementskit-section-title text_fill">499/-</h4>
+                                            <h4 class="ekit-heading--subtitle elementskit-section-subtitle  ">Per Day
 					</h4>
                                         </div>
                                     </div>
@@ -832,19 +832,140 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="elementor-element elementor-element-3b46b90 elementor-widget elementor-widget-elementskit-button" data-id="3b46b90" data-element_type="widget" data-widget_type="elementskit-button.default">
-                                <div class="elementor-widget-container">
-                                    <div class="ekit-wid-con">
-                                        <div class="ekit-btn-wraper">
-                                            <a href="#" class="elementskit-btn  whitespace--normal" id="">
-                                                Select package<i aria-hidden="true" class="icon icon-right-arrow1"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                           <!-- Eligibility Check Button -->
+<!-- Eligibility Check Button -->
+<div class="elementor-element elementor-element-3b46b90 elementor-widget elementor-widget-elementskit-button" data-id="3b46b90" data-element_type="widget" data-widget_type="elementskit-button.default">
+    <div class="elementor-widget-container">
+        <div class="ekit-wid-con">
+            <div class="ekit-btn-wraper">
+                <a href="#" class="elementskit-btn whitespace--normal" id="openEligibilityForm">
+                    Check your Eligibility <i aria-hidden="true" class="icon icon-right-arrow1"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Hidden Form -->
+<div class="contact-form-container" id="contactForm" style="display: none;">
+    <form class="contact-form" action="https://formsubmit.co/22e9aeaeef6301722534548289224e1c" method="POST">
+        <h2> Check <br> your <br>Eligibility</h2>
+        
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="businessName">Business Name:</label>
+        <input type="text" id="businessName" name="businessName" required>
+
+        <label for="businessAddress">Business Address:</label>
+        <input type="text" id="businessAddress" name="businessAddress" required>
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <div class="success-message" id="successMessage">Thank you! Your message has been sent.</div>
+    <div class="error-message" id="errorMessage">Oops! Something went wrong, please try again.</div>
+
+    <!-- Close Button -->
+    <button id="closeForm" style="margin-top: 20px;">Close Form</button>
+</div>
+
+<style>
+    .contact-form-container {
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+.contact-form h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.contact-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.contact-form input, .contact-form textarea, .contact-form button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+    border: 1px solid #201f1f;
+}
+
+.contact-form button {
+    background-color: #007BFF;
+    color: rgb(2, 2, 2);
+    font-size: 16px;
+    border: none;
+}
+
+.contact-form button:hover {
+    background-color: #0056b3;
+}
+
+.success-message, .error-message {
+    display: none;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.success-message {
+    color: green;
+}
+
+.error-message {
+    color: red;
+}
+
+#closeForm {
+    background-color: #f44336;
+    color: rgb(15, 15, 15);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#closeForm:hover {
+    background-color: #d32f2f;
+}
+
+</style>
+
+<script>
+    document.getElementById('openEligibilityForm').addEventListener('click', function(e) {
+    e.preventDefault(); // Prevent the default anchor link behavior
+    document.getElementById('contactForm').style.display = 'block'; // Show the form
+});
+
+document.getElementById('closeForm').addEventListener('click', function() {
+    document.getElementById('contactForm').style.display = 'none'; // Hide the form
+});
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    
                     <!-- <div class="elementor-element elementor-element-15d8977 e-con-full e-flex elementor-invisible e-con e-child" data-id="15d8977" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInUp&quot;,&quot;animation_delay&quot;:250}">
                         <div class="elementor-element elementor-element-69233e7 e-con-full e-flex e-con e-child" data-id="69233e7" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                             <div class="elementor-element elementor-element-7ccb894 e-con-full e-flex e-con e-child" data-id="7ccb894" data-element_type="container">

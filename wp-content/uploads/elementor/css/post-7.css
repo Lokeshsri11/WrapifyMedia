@@ -184,7 +184,7 @@
 .elementor-7 .elementor-element.elementor-element-e7b5ccc>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-color: var( --e-global-color-495d27d);
-    background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/BG-011.jpg");
+    /* background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/BG-011.jpg"); */
     background-position: center left;
     background-repeat: no-repeat;
     background-size: contain;
@@ -510,7 +510,7 @@
 .elementor-7 .elementor-element.elementor-element-b50d156>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-b50d156>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
-    background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/Asset-011.png");
+    background-image: url("/img/j.png");
     background-position: bottom center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -729,7 +729,7 @@
 .elementor-7 .elementor-element.elementor-element-0f8a1dd>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-0f8a1dd>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
-    background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/Asset-014.png");
+    background-image: url("/img/Untitled\ design.png");
     background-position: bottom center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -842,7 +842,7 @@
 .elementor-7 .elementor-element.elementor-element-277902a>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-277902a>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
-    background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/Asset-036.png");
+    background-image: url("/img/Untitled\ design\ \(1\).png");
     background-position: bottom right;
     background-repeat: no-repeat;
     background-size: contain;
@@ -949,7 +949,7 @@
 .elementor-7 .elementor-element.elementor-element-0454ea2>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-0454ea2>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
-    background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/Brandmodejpg-015.jpg");
+    background-image: url("/img/Untitled\ design\ \(2\).png");
     background-position: bottom right;
     background-repeat: no-repeat;
     background-size: contain;
@@ -1073,7 +1073,7 @@
 
 .elementor-7 .elementor-element.elementor-element-f352fab:not(.elementor-motion-effects-element-type-background),
 .elementor-7 .elementor-element.elementor-element-f352fab>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/Brandmodejpg-018-1.jpg");
+    background-image: url("/img/beautiful-car-washing-service.jpg");
     background-size: cover;
 }
 
@@ -2959,20 +2959,28 @@
     --align-self: center;
 }
 
+/* Adjust the container to show only 3 items in a single row */
 .elementor-7 .elementor-element.elementor-element-de42ce8 {
-    --display: grid;
-    --e-con-grid-template-columns: repeat(3, 1fr);
-    --e-con-grid-template-rows: repeat(2, 1fr);
-    --gap: 40px 40px;
-    --grid-auto-flow: row;
-    --justify-items: stretch;
-    --align-items: stretch;
-    --background-transition: 0.3s;
-    --padding-top: 0em;
-    --padding-bottom: 5em;
-    --padding-left: 0em;
-    --padding-right: 0em;
+    display: grid; /* Ensure grid layout */
+    grid-template-columns: repeat(3, 1fr); /* 3 columns */
+    grid-template-rows: 1fr; /* 1 row */
+    gap: 40px; /* Gap between the grid items */
+    background-transition: 0.3s;
+    padding: 0em; /* Remove padding if needed */
 }
+
+/* Hide any empty grid items (optional, if 6 items are in HTML but only 3 should show) */
+.elementor-7 .elementor-element.elementor-element-de42ce8 .elementor-widget:nth-child(n+4) {
+    display: none; /* Hides items starting from the 4th child onward */
+}
+
+/* Optional: Adjust the grid for smaller screens (responsive layout) */
+@media (max-width: 768px) {
+    .elementor-7 .elementor-element.elementor-element-de42ce8 {
+        grid-template-columns: 1fr; /* 1 column on smaller screens */
+    }
+}
+
 
 .elementor-7 .elementor-element.elementor-element-210e840 .elementskit-testimonial-slider {
     --ekit_testimonial_left_right_spacing: 0px;
