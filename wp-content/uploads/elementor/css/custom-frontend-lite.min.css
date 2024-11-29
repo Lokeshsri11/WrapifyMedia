@@ -2172,9 +2172,9 @@ body.rtl .e-con {
     z-index: 1
 }
 
-:is(.e-con, .e-con>.e-con-inner)>.elementor-background-slideshow:before {
+/* :is(.e-con, .e-con>.e-con-inner)>.elementor-background-slideshow:before {
     z-index: 2
-}
+} */
 
 .e-con .elementor-widget {
     min-width: 0
