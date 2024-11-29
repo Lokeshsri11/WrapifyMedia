@@ -22,8 +22,8 @@
 .elementor-1764 .elementor-element.elementor-element-78cad96::before,
 .elementor-1764 .elementor-element.elementor-element-78cad96>.elementor-background-video-container::before,
 .elementor-1764 .elementor-element.elementor-element-78cad96>.e-con-inner>.elementor-background-video-container::before,
-.elementor-1764 .elementor-element.elementor-element-78cad96>.elementor-background-slideshow::before,
-.elementor-1764 .elementor-element.elementor-element-78cad96>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-1764 .elementor-element.elementor-element-78cad96>..::before,
+.elementor-1764 .elementor-element.elementor-element-78cad96>.e-con-inner>..::before,
 .elementor-1764 .elementor-element.elementor-element-78cad96>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/03/BG-013.jpg");

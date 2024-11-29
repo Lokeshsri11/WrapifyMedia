@@ -20,7 +20,7 @@
     background-image: radial-gradient(at top center, #004BAD 0%, var( --e-global-color-495d27d ) 71%);
 }
 
-.elementor-3078 .elementor-element.elementor-element-cdd429e::before, .elementor-3078 .elementor-element.elementor-element-cdd429e > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cdd429e > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cdd429e > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-cdd429e > .e-con-inner > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-cdd429e > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+.elementor-3078 .elementor-element.elementor-element-cdd429e::before, .elementor-3078 .elementor-element.elementor-element-cdd429e > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cdd429e > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cdd429e > ..::before, .elementor-3078 .elementor-element.elementor-element-cdd429e > .e-con-inner > ..::before, .elementor-3078 .elementor-element.elementor-element-cdd429e > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
     --background-overlay: '';
 }
 
@@ -203,7 +203,7 @@
     --padding-right: 0em;
 }
 
-.elementor-3078 .elementor-element.elementor-element-75e88e8::before, .elementor-3078 .elementor-element.elementor-element-75e88e8 > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-75e88e8 > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-75e88e8 > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-75e88e8 > .e-con-inner > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-75e88e8 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+.elementor-3078 .elementor-element.elementor-element-75e88e8::before, .elementor-3078 .elementor-element.elementor-element-75e88e8 > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-75e88e8 > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-75e88e8 > ..::before, .elementor-3078 .elementor-element.elementor-element-75e88e8 > .e-con-inner > ..::before, .elementor-3078 .elementor-element.elementor-element-75e88e8 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/BG-011.jpg");
     background-position: center left;
@@ -421,7 +421,7 @@
     --padding-right: 0px;
 }
 
-.elementor-3078 .elementor-element.elementor-element-db37017:hover::before, .elementor-3078 .elementor-element.elementor-element-db37017:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-db37017:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-db37017 > .elementor-background-slideshow:hover::before, .elementor-3078 .elementor-element.elementor-element-db37017 > .e-con-inner > .elementor-background-slideshow:hover::before {
+.elementor-3078 .elementor-element.elementor-element-db37017:hover::before, .elementor-3078 .elementor-element.elementor-element-db37017:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-db37017:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-db37017 > ..:hover::before, .elementor-3078 .elementor-element.elementor-element-db37017 > .e-con-inner > ..:hover::before {
     --background-overlay: '';
     background-color: var( --e-global-color-896f197 );
 }
@@ -604,7 +604,7 @@
     --padding-right: 0px;
 }
 
-.elementor-3078 .elementor-element.elementor-element-5c19b85:hover::before, .elementor-3078 .elementor-element.elementor-element-5c19b85:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-5c19b85:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-5c19b85 > .elementor-background-slideshow:hover::before, .elementor-3078 .elementor-element.elementor-element-5c19b85 > .e-con-inner > .elementor-background-slideshow:hover::before {
+.elementor-3078 .elementor-element.elementor-element-5c19b85:hover::before, .elementor-3078 .elementor-element.elementor-element-5c19b85:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-5c19b85:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-5c19b85 > ..:hover::before, .elementor-3078 .elementor-element.elementor-element-5c19b85 > .e-con-inner > ..:hover::before {
     --background-overlay: '';
     background-color: var( --e-global-color-896f197 );
 }
@@ -787,7 +787,7 @@
     --padding-right: 0px;
 }
 
-.elementor-3078 .elementor-element.elementor-element-b098aa3:hover::before, .elementor-3078 .elementor-element.elementor-element-b098aa3:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-b098aa3:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-b098aa3 > .elementor-background-slideshow:hover::before, .elementor-3078 .elementor-element.elementor-element-b098aa3 > .e-con-inner > .elementor-background-slideshow:hover::before {
+.elementor-3078 .elementor-element.elementor-element-b098aa3:hover::before, .elementor-3078 .elementor-element.elementor-element-b098aa3:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-b098aa3:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-b098aa3 > ..:hover::before, .elementor-3078 .elementor-element.elementor-element-b098aa3 > .e-con-inner > ..:hover::before {
     --background-overlay: '';
     background-color: var( --e-global-color-896f197 );
 }
@@ -970,7 +970,7 @@
     --padding-right: 0px;
 }
 
-.elementor-3078 .elementor-element.elementor-element-6bb446e:hover::before, .elementor-3078 .elementor-element.elementor-element-6bb446e:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-6bb446e:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-6bb446e > .elementor-background-slideshow:hover::before, .elementor-3078 .elementor-element.elementor-element-6bb446e > .e-con-inner > .elementor-background-slideshow:hover::before {
+.elementor-3078 .elementor-element.elementor-element-6bb446e:hover::before, .elementor-3078 .elementor-element.elementor-element-6bb446e:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-6bb446e:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-6bb446e > ..:hover::before, .elementor-3078 .elementor-element.elementor-element-6bb446e > .e-con-inner > ..:hover::before {
     --background-overlay: '';
     background-color: var( --e-global-color-896f197 );
 }
@@ -1153,7 +1153,7 @@
     --padding-right: 0px;
 }
 
-.elementor-3078 .elementor-element.elementor-element-ac97d9f:hover::before, .elementor-3078 .elementor-element.elementor-element-ac97d9f:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-ac97d9f:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-ac97d9f > .elementor-background-slideshow:hover::before, .elementor-3078 .elementor-element.elementor-element-ac97d9f > .e-con-inner > .elementor-background-slideshow:hover::before {
+.elementor-3078 .elementor-element.elementor-element-ac97d9f:hover::before, .elementor-3078 .elementor-element.elementor-element-ac97d9f:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-ac97d9f:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-ac97d9f > ..:hover::before, .elementor-3078 .elementor-element.elementor-element-ac97d9f > .e-con-inner > ..:hover::before {
     --background-overlay: '';
     background-color: var( --e-global-color-896f197 );
 }
@@ -1404,7 +1404,7 @@
     --padding-right: 0em;
 }
 
-.elementor-3078 .elementor-element.elementor-element-cae3d9e::before, .elementor-3078 .elementor-element.elementor-element-cae3d9e > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cae3d9e > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cae3d9e > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-cae3d9e > .e-con-inner > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-cae3d9e > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+.elementor-3078 .elementor-element.elementor-element-cae3d9e::before, .elementor-3078 .elementor-element.elementor-element-cae3d9e > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cae3d9e > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cae3d9e > ..::before, .elementor-3078 .elementor-element.elementor-element-cae3d9e > .e-con-inner > ..::before, .elementor-3078 .elementor-element.elementor-element-cae3d9e > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
     --background-overlay: '';
 }
 
@@ -1433,7 +1433,7 @@
     background-color: var( --e-global-color-4ac277f );
 }
 
-.elementor-3078 .elementor-element.elementor-element-41f113a::before, .elementor-3078 .elementor-element.elementor-element-41f113a > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-41f113a > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-41f113a > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-41f113a > .e-con-inner > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-41f113a > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+.elementor-3078 .elementor-element.elementor-element-41f113a::before, .elementor-3078 .elementor-element.elementor-element-41f113a > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-41f113a > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-41f113a > ..::before, .elementor-3078 .elementor-element.elementor-element-41f113a > .e-con-inner > ..::before, .elementor-3078 .elementor-element.elementor-element-41f113a > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/BG-014.jpg");
     background-size: cover;
@@ -1957,7 +1957,7 @@
     background-size: 25% auto;
 }
 
-.elementor-3078 .elementor-element.elementor-element-6a0ac55::before, .elementor-3078 .elementor-element.elementor-element-6a0ac55 > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-6a0ac55 > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-6a0ac55 > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-6a0ac55 > .e-con-inner > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-6a0ac55 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+.elementor-3078 .elementor-element.elementor-element-6a0ac55::before, .elementor-3078 .elementor-element.elementor-element-6a0ac55 > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-6a0ac55 > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-6a0ac55 > ..::before, .elementor-3078 .elementor-element.elementor-element-6a0ac55 > .e-con-inner > ..::before, .elementor-3078 .elementor-element.elementor-element-6a0ac55 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-color: transparent;
     background-image: radial-gradient(at center center, #004BAD 0%, var( --e-global-color-495d27d ) 70%);
@@ -2036,7 +2036,7 @@
     --padding-right: 0em;
 }
 
-.elementor-3078 .elementor-element.elementor-element-73e92d4::before, .elementor-3078 .elementor-element.elementor-element-73e92d4 > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-73e92d4 > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-73e92d4 > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-73e92d4 > .e-con-inner > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-73e92d4 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+.elementor-3078 .elementor-element.elementor-element-73e92d4::before, .elementor-3078 .elementor-element.elementor-element-73e92d4 > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-73e92d4 > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-73e92d4 > ..::before, .elementor-3078 .elementor-element.elementor-element-73e92d4 > .e-con-inner > ..::before, .elementor-3078 .elementor-element.elementor-element-73e92d4 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/BG-011.jpg");
     background-position: center left;
@@ -2198,12 +2198,12 @@
     --padding-right: 20px;
 }
 
-.elementor-3078 .elementor-element.elementor-element-75d56a0::before, .elementor-3078 .elementor-element.elementor-element-75d56a0 > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-75d56a0 > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-75d56a0 > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-75d56a0 > .e-con-inner > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-75d56a0 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+.elementor-3078 .elementor-element.elementor-element-75d56a0::before, .elementor-3078 .elementor-element.elementor-element-75d56a0 > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-75d56a0 > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-75d56a0 > ..::before, .elementor-3078 .elementor-element.elementor-element-75d56a0 > .e-con-inner > ..::before, .elementor-3078 .elementor-element.elementor-element-75d56a0 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-color: var( --e-global-color-896f197 );
 }
 
-.elementor-3078 .elementor-element.elementor-element-75d56a0:hover::before, .elementor-3078 .elementor-element.elementor-element-75d56a0:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-75d56a0:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-75d56a0 > .elementor-background-slideshow:hover::before, .elementor-3078 .elementor-element.elementor-element-75d56a0 > .e-con-inner > .elementor-background-slideshow:hover::before {
+.elementor-3078 .elementor-element.elementor-element-75d56a0:hover::before, .elementor-3078 .elementor-element.elementor-element-75d56a0:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-75d56a0:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-75d56a0 > ..:hover::before, .elementor-3078 .elementor-element.elementor-element-75d56a0 > .e-con-inner > ..:hover::before {
     --background-overlay: '';
     background-color: var( --e-global-color-896f197 );
 }
@@ -2382,12 +2382,12 @@
     --padding-right: 20px;
 }
 
-.elementor-3078 .elementor-element.elementor-element-d1a9dfc::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc > .e-con-inner > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+.elementor-3078 .elementor-element.elementor-element-d1a9dfc::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc > ..::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc > .e-con-inner > ..::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-color: var( --e-global-color-896f197 );
 }
 
-.elementor-3078 .elementor-element.elementor-element-d1a9dfc:hover::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc > .elementor-background-slideshow:hover::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc > .e-con-inner > .elementor-background-slideshow:hover::before {
+.elementor-3078 .elementor-element.elementor-element-d1a9dfc:hover::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc > ..:hover::before, .elementor-3078 .elementor-element.elementor-element-d1a9dfc > .e-con-inner > ..:hover::before {
     --background-overlay: '';
     background-color: var( --e-global-color-896f197 );
 }
@@ -2566,12 +2566,12 @@
     --padding-right: 20px;
 }
 
-.elementor-3078 .elementor-element.elementor-element-cc69783::before, .elementor-3078 .elementor-element.elementor-element-cc69783 > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cc69783 > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cc69783 > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-cc69783 > .e-con-inner > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-cc69783 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+.elementor-3078 .elementor-element.elementor-element-cc69783::before, .elementor-3078 .elementor-element.elementor-element-cc69783 > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cc69783 > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cc69783 > ..::before, .elementor-3078 .elementor-element.elementor-element-cc69783 > .e-con-inner > ..::before, .elementor-3078 .elementor-element.elementor-element-cc69783 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-color: var( --e-global-color-896f197 );
 }
 
-.elementor-3078 .elementor-element.elementor-element-cc69783:hover::before, .elementor-3078 .elementor-element.elementor-element-cc69783:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cc69783:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cc69783 > .elementor-background-slideshow:hover::before, .elementor-3078 .elementor-element.elementor-element-cc69783 > .e-con-inner > .elementor-background-slideshow:hover::before {
+.elementor-3078 .elementor-element.elementor-element-cc69783:hover::before, .elementor-3078 .elementor-element.elementor-element-cc69783:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cc69783:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-cc69783 > ..:hover::before, .elementor-3078 .elementor-element.elementor-element-cc69783 > .e-con-inner > ..:hover::before {
     --background-overlay: '';
     background-color: var( --e-global-color-896f197 );
 }
@@ -2750,12 +2750,12 @@
     --padding-right: 20px;
 }
 
-.elementor-3078 .elementor-element.elementor-element-e359644::before, .elementor-3078 .elementor-element.elementor-element-e359644 > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-e359644 > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-e359644 > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-e359644 > .e-con-inner > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-e359644 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+.elementor-3078 .elementor-element.elementor-element-e359644::before, .elementor-3078 .elementor-element.elementor-element-e359644 > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-e359644 > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-e359644 > ..::before, .elementor-3078 .elementor-element.elementor-element-e359644 > .e-con-inner > ..::before, .elementor-3078 .elementor-element.elementor-element-e359644 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-color: var( --e-global-color-896f197 );
 }
 
-.elementor-3078 .elementor-element.elementor-element-e359644:hover::before, .elementor-3078 .elementor-element.elementor-element-e359644:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-e359644:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-e359644 > .elementor-background-slideshow:hover::before, .elementor-3078 .elementor-element.elementor-element-e359644 > .e-con-inner > .elementor-background-slideshow:hover::before {
+.elementor-3078 .elementor-element.elementor-element-e359644:hover::before, .elementor-3078 .elementor-element.elementor-element-e359644:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-e359644:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-e359644 > ..:hover::before, .elementor-3078 .elementor-element.elementor-element-e359644 > .e-con-inner > ..:hover::before {
     --background-overlay: '';
     background-color: var( --e-global-color-896f197 );
 }
@@ -2934,12 +2934,12 @@
     --padding-right: 20px;
 }
 
-.elementor-3078 .elementor-element.elementor-element-220fd21::before, .elementor-3078 .elementor-element.elementor-element-220fd21 > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-220fd21 > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-220fd21 > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-220fd21 > .e-con-inner > .elementor-background-slideshow::before, .elementor-3078 .elementor-element.elementor-element-220fd21 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
+.elementor-3078 .elementor-element.elementor-element-220fd21::before, .elementor-3078 .elementor-element.elementor-element-220fd21 > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-220fd21 > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-220fd21 > ..::before, .elementor-3078 .elementor-element.elementor-element-220fd21 > .e-con-inner > ..::before, .elementor-3078 .elementor-element.elementor-element-220fd21 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-color: var( --e-global-color-896f197 );
 }
 
-.elementor-3078 .elementor-element.elementor-element-220fd21:hover::before, .elementor-3078 .elementor-element.elementor-element-220fd21:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-220fd21:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-220fd21 > .elementor-background-slideshow:hover::before, .elementor-3078 .elementor-element.elementor-element-220fd21 > .e-con-inner > .elementor-background-slideshow:hover::before {
+.elementor-3078 .elementor-element.elementor-element-220fd21:hover::before, .elementor-3078 .elementor-element.elementor-element-220fd21:hover > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-220fd21:hover > .e-con-inner > .elementor-background-video-container::before, .elementor-3078 .elementor-element.elementor-element-220fd21 > ..:hover::before, .elementor-3078 .elementor-element.elementor-element-220fd21 > .e-con-inner > ..:hover::before {
     --background-overlay: '';
     background-color: var( --e-global-color-896f197 );
 }
