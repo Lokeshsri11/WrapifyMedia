@@ -18,22 +18,22 @@
 .elementor-7 .elementor-element.elementor-element-3fc3cf8::before,
 .elementor-7 .elementor-element.elementor-element-3fc3cf8>.elementor-background-video-container::before,
 .elementor-7 .elementor-element.elementor-element-3fc3cf8>.e-con-inner>.elementor-background-video-container::before,
-/* .elementor-7 .elementor-element.elementor-element-3fc3cf8>..::before, */
-/* .elementor-7 .elementor-element.elementor-element-3fc3cf8>.e-con-inner>..::before, */
+.elementor-7 .elementor-element.elementor-element-3fc3cf8>.elementor-background-slideshow::before,
+.elementor-7 .elementor-element.elementor-element-3fc3cf8>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-3fc3cf8>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-color: var( --e-global-color-495d27d);
 }
 
-/* .elementor-7 .elementor-element.elementor-element-3fc3cf8,
+.elementor-7 .elementor-element.elementor-element-3fc3cf8,
 .elementor-7 .elementor-element.elementor-element-3fc3cf8::before {
     --border-transition: 0.3s;
-} */
+}
 
-/* .elementor-7 .elementor-element.elementor-element-53741ea {
+.elementor-7 .elementor-element.elementor-element-53741ea {
     --display: flex;
     --background-transition: 0.3s;
-} */
+}
 
 .elementor-7 .elementor-element.elementor-element-a569839 {
     --display: flex;
@@ -179,12 +179,12 @@
 .elementor-7 .elementor-element.elementor-element-e7b5ccc::before,
 .elementor-7 .elementor-element.elementor-element-e7b5ccc>.elementor-background-video-container::before,
 .elementor-7 .elementor-element.elementor-element-e7b5ccc>.e-con-inner>.elementor-background-video-container::before,
-.elementor-7 .elementor-element.elementor-element-e7b5ccc>..::before,
-.elementor-7 .elementor-element.elementor-element-e7b5ccc>.e-con-inner>..::before,
+.elementor-7 .elementor-element.elementor-element-e7b5ccc>.elementor-background-slideshow::before,
+.elementor-7 .elementor-element.elementor-element-e7b5ccc>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-e7b5ccc>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-color: var( --e-global-color-495d27d);
-    /* background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/BG-011.jpg"); */
+    background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/BG-011.jpg");
     background-position: center left;
     background-repeat: no-repeat;
     background-size: contain;
@@ -506,8 +506,8 @@
 .elementor-7 .elementor-element.elementor-element-b50d156::before,
 .elementor-7 .elementor-element.elementor-element-b50d156>.elementor-background-video-container::before,
 .elementor-7 .elementor-element.elementor-element-b50d156>.e-con-inner>.elementor-background-video-container::before,
-.elementor-7 .elementor-element.elementor-element-b50d156>..::before,
-.elementor-7 .elementor-element.elementor-element-b50d156>.e-con-inner>..::before,
+.elementor-7 .elementor-element.elementor-element-b50d156>.elementor-background-slideshow::before,
+.elementor-7 .elementor-element.elementor-element-b50d156>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-b50d156>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-image: url("/img/j.png");
@@ -618,8 +618,8 @@
 .elementor-7 .elementor-element.elementor-element-85f00e5::before,
 .elementor-7 .elementor-element.elementor-element-85f00e5>.elementor-background-video-container::before,
 .elementor-7 .elementor-element.elementor-element-85f00e5>.e-con-inner>.elementor-background-video-container::before,
-.elementor-7 .elementor-element.elementor-element-85f00e5>..::before,
-.elementor-7 .elementor-element.elementor-element-85f00e5>.e-con-inner>..::before,
+.elementor-7 .elementor-element.elementor-element-85f00e5>.elementor-background-slideshow::before,
+.elementor-7 .elementor-element.elementor-element-85f00e5>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-85f00e5>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/Asset-012.png");
@@ -725,8 +725,8 @@
 .elementor-7 .elementor-element.elementor-element-0f8a1dd::before,
 .elementor-7 .elementor-element.elementor-element-0f8a1dd>.elementor-background-video-container::before,
 .elementor-7 .elementor-element.elementor-element-0f8a1dd>.e-con-inner>.elementor-background-video-container::before,
-.elementor-7 .elementor-element.elementor-element-0f8a1dd>..::before,
-.elementor-7 .elementor-element.elementor-element-0f8a1dd>.e-con-inner>..::before,
+.elementor-7 .elementor-element.elementor-element-0f8a1dd>.elementor-background-slideshow::before,
+.elementor-7 .elementor-element.elementor-element-0f8a1dd>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-0f8a1dd>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-image: url("/img/Untitled\ design.png");
@@ -838,8 +838,8 @@
 .elementor-7 .elementor-element.elementor-element-277902a::before,
 .elementor-7 .elementor-element.elementor-element-277902a>.elementor-background-video-container::before,
 .elementor-7 .elementor-element.elementor-element-277902a>.e-con-inner>.elementor-background-video-container::before,
-.elementor-7 .elementor-element.elementor-element-277902a>..::before,
-.elementor-7 .elementor-element.elementor-element-277902a>.e-con-inner>..::before,
+.elementor-7 .elementor-element.elementor-element-277902a>.elementor-background-slideshow::before,
+.elementor-7 .elementor-element.elementor-element-277902a>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-277902a>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-image: url("/img/Untitled\ design\ \(1\).png");
@@ -945,8 +945,8 @@
 .elementor-7 .elementor-element.elementor-element-0454ea2::before,
 .elementor-7 .elementor-element.elementor-element-0454ea2>.elementor-background-video-container::before,
 .elementor-7 .elementor-element.elementor-element-0454ea2>.e-con-inner>.elementor-background-video-container::before,
-.elementor-7 .elementor-element.elementor-element-0454ea2>..::before,
-.elementor-7 .elementor-element.elementor-element-0454ea2>.e-con-inner>..::before,
+.elementor-7 .elementor-element.elementor-element-0454ea2>.elementor-background-slideshow::before,
+.elementor-7 .elementor-element.elementor-element-0454ea2>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-0454ea2>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-image: url("/img/Untitled\ design\ \(2\).png");
@@ -1043,11 +1043,11 @@
 .elementor-7 .elementor-element.elementor-element-87ddf11::before,
 .elementor-7 .elementor-element.elementor-element-87ddf11>.elementor-background-video-container::before,
 .elementor-7 .elementor-element.elementor-element-87ddf11>.e-con-inner>.elementor-background-video-container::before,
-.elementor-7 .elementor-element.elementor-element-87ddf11>..::before,
-.elementor-7 .elementor-element.elementor-element-87ddf11>.e-con-inner>..::before,
+.elementor-7 .elementor-element.elementor-element-87ddf11>.elementor-background-slideshow::before,
+.elementor-7 .elementor-element.elementor-element-87ddf11>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-87ddf11>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
-    /* background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/BG-012.jpg"); */
+    background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/BG-012.jpg");
     background-position: top right;
     background-repeat: no-repeat;
     background-size: contain;
@@ -1071,17 +1071,17 @@
     --border-radius: 12px 12px 12px 12px;
 }
 
-/* .elementor-7 .elementor-element.elementor-element-f352fab:not(.elementor-motion-effects-element-type-background),
+.elementor-7 .elementor-element.elementor-element-f352fab:not(.elementor-motion-effects-element-type-background),
 .elementor-7 .elementor-element.elementor-element-f352fab>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/Asset-047.png");
     background-size: cover;
-} */
+}
 
 .elementor-7 .elementor-element.elementor-element-f352fab::before,
 .elementor-7 .elementor-element.elementor-element-f352fab>.elementor-background-video-container::before,
 .elementor-7 .elementor-element.elementor-element-f352fab>.e-con-inner>.elementor-background-video-container::before,
-.elementor-7 .elementor-element.elementor-element-f352fab>..::before,
-.elementor-7 .elementor-element.elementor-element-f352fab>.e-con-inner>..::before,
+.elementor-7 .elementor-element.elementor-element-f352fab>.elementor-background-slideshow::before,
+.elementor-7 .elementor-element.elementor-element-f352fab>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-f352fab>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-color: var( --e-global-color-secondary);
@@ -2236,8 +2236,8 @@
 .elementor-7 .elementor-element.elementor-element-2b45c02::before,
 .elementor-7 .elementor-element.elementor-element-2b45c02>.elementor-background-video-container::before,
 .elementor-7 .elementor-element.elementor-element-2b45c02>.e-con-inner>.elementor-background-video-container::before,
-.elementor-7 .elementor-element.elementor-element-2b45c02>..::before,
-.elementor-7 .elementor-element.elementor-element-2b45c02>.e-con-inner>..::before,
+.elementor-7 .elementor-element.elementor-element-2b45c02>.elementor-background-slideshow::before,
+.elementor-7 .elementor-element.elementor-element-2b45c02>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-2b45c02>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
 }
@@ -2271,8 +2271,8 @@
 .elementor-7 .elementor-element.elementor-element-ffd1bbe::before,
 .elementor-7 .elementor-element.elementor-element-ffd1bbe>.elementor-background-video-container::before,
 .elementor-7 .elementor-element.elementor-element-ffd1bbe>.e-con-inner>.elementor-background-video-container::before,
-.elementor-7 .elementor-element.elementor-element-ffd1bbe>..::before,
-.elementor-7 .elementor-element.elementor-element-ffd1bbe>.e-con-inner>..::before,
+.elementor-7 .elementor-element.elementor-element-ffd1bbe>.elementor-background-slideshow::before,
+.elementor-7 .elementor-element.elementor-element-ffd1bbe>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-ffd1bbe>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/BG-014.jpg");
@@ -2805,8 +2805,8 @@
 .elementor-7 .elementor-element.elementor-element-537b383::before,
 .elementor-7 .elementor-element.elementor-element-537b383>.elementor-background-video-container::before,
 .elementor-7 .elementor-element.elementor-element-537b383>.e-con-inner>.elementor-background-video-container::before,
-.elementor-7 .elementor-element.elementor-element-537b383>..::before,
-.elementor-7 .elementor-element.elementor-element-537b383>.e-con-inner>..::before,
+.elementor-7 .elementor-element.elementor-element-537b383>.elementor-background-slideshow::before,
+.elementor-7 .elementor-element.elementor-element-537b383>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-537b383>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/BG-011.jpg");
@@ -3813,8 +3813,8 @@
 .elementor-7 .elementor-element.elementor-element-1485941::before,
 .elementor-7 .elementor-element.elementor-element-1485941>.elementor-background-video-container::before,
 .elementor-7 .elementor-element.elementor-element-1485941>.e-con-inner>.elementor-background-video-container::before,
-.elementor-7 .elementor-element.elementor-element-1485941>..::before,
-.elementor-7 .elementor-element.elementor-element-1485941>.e-con-inner>..::before,
+.elementor-7 .elementor-element.elementor-element-1485941>.elementor-background-slideshow::before,
+.elementor-7 .elementor-element.elementor-element-1485941>.e-con-inner>.elementor-background-slideshow::before,
 .elementor-7 .elementor-element.elementor-element-1485941>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
     --background-overlay: '';
     background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/Asset-045.png");
@@ -4741,8 +4741,8 @@
     .elementor-7 .elementor-element.elementor-element-1485941::before,
     .elementor-7 .elementor-element.elementor-element-1485941>.elementor-background-video-container::before,
     .elementor-7 .elementor-element.elementor-element-1485941>.e-con-inner>.elementor-background-video-container::before,
-    .elementor-7 .elementor-element.elementor-element-1485941>..::before,
-    .elementor-7 .elementor-element.elementor-element-1485941>.e-con-inner>..::before,
+    .elementor-7 .elementor-element.elementor-element-1485941>.elementor-background-slideshow::before,
+    .elementor-7 .elementor-element.elementor-element-1485941>.e-con-inner>.elementor-background-slideshow::before,
     .elementor-7 .elementor-element.elementor-element-1485941>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
         background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/Asset-047.png");
     }
@@ -5721,8 +5721,8 @@
     .elementor-7 .elementor-element.elementor-element-277902a::before,
     .elementor-7 .elementor-element.elementor-element-277902a>.elementor-background-video-container::before,
     .elementor-7 .elementor-element.elementor-element-277902a>.e-con-inner>.elementor-background-video-container::before,
-    .elementor-7 .elementor-element.elementor-element-277902a>..::before,
-    .elementor-7 .elementor-element.elementor-element-277902a>.e-con-inner>..::before,
+    .elementor-7 .elementor-element.elementor-element-277902a>.elementor-background-slideshow::before,
+    .elementor-7 .elementor-element.elementor-element-277902a>.e-con-inner>.elementor-background-slideshow::before,
     .elementor-7 .elementor-element.elementor-element-277902a>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
         background-size: 360px auto;
     }
@@ -5749,8 +5749,8 @@
     .elementor-7 .elementor-element.elementor-element-0454ea2::before,
     .elementor-7 .elementor-element.elementor-element-0454ea2>.elementor-background-video-container::before,
     .elementor-7 .elementor-element.elementor-element-0454ea2>.e-con-inner>.elementor-background-video-container::before,
-    .elementor-7 .elementor-element.elementor-element-0454ea2>..::before,
-    .elementor-7 .elementor-element.elementor-element-0454ea2>.e-con-inner>..::before,
+    .elementor-7 .elementor-element.elementor-element-0454ea2>.elementor-background-slideshow::before,
+    .elementor-7 .elementor-element.elementor-element-0454ea2>.e-con-inner>.elementor-background-slideshow::before,
     .elementor-7 .elementor-element.elementor-element-0454ea2>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
         background-size: 400px auto;
     }
@@ -6389,8 +6389,8 @@
     .elementor-7 .elementor-element.elementor-element-1485941::before,
     .elementor-7 .elementor-element.elementor-element-1485941>.elementor-background-video-container::before,
     .elementor-7 .elementor-element.elementor-element-1485941>.e-con-inner>.elementor-background-video-container::before,
-    .elementor-7 .elementor-element.elementor-element-1485941>..::before,
-    .elementor-7 .elementor-element.elementor-element-1485941>.e-con-inner>..::before,
+    .elementor-7 .elementor-element.elementor-element-1485941>.elementor-background-slideshow::before,
+    .elementor-7 .elementor-element.elementor-element-1485941>.e-con-inner>.elementor-background-slideshow::before,
     .elementor-7 .elementor-element.elementor-element-1485941>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
         background-image: url("https://brandmode.1onestrong.com/wp-content/uploads/2024/05/Asset-045.png");
     }
